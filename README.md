@@ -1,1 +1,1 @@
-inflation calculator
+#inflation calculator
